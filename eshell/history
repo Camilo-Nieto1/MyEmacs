@@ -1,0 +1,128 @@
+ghc 20-11-2020.hs 
+ghci Ayudantía_1
+ghci Ayudantía_1
+q
+q
+quit
+exit
+ghci listas.hs 
+cd ../../Ejercicios_Semanales/
+ls
+mkdir Semanal3
+ls
+*Main> quit
+git status
+cd Reloj/src/
+javac icc/practica1/UsoReloj.java 
+javac icc/practica1/UsoReloj.java 
+javac icc/practica1/UsoReloj.java 
+pwd
+tree
+touch ../../Entregables.txt
+tree
+cd Reloj/src/
+tree
+java icc/practica1/UsoReloj
+javac icc/practica1/UsoReloj.java 
+java icc/practica1/UsoReloj
+javac icc/practica1/UsoReloj.java 
+java icc/practica1/UsoReloj
+java icc/practica1/UsoReloj
+javac icc/practica1/UsoReloj.java 
+java icc/practica1/UsoReloj
+javac icc/practica1/UsoReloj.java 
+java icc/practica1/UsoReloj
+java icc/practica1/UsoReloj.class
+java icc/practica1/UsoReloj 
+java icc/practica1/UsoReloj.class
+java icc/practica1/PanelDeReloj
+tree
+cd ../../
+git status
+git add Entregables.txt 
+git status
+git log
+git add Reloj/src/icc/practica1/UsoReloj.java 
+git status
+git stus
+git status
+git add Reloj/src/icc/practica1/Reloj.java 
+git status
+git commit -m "Nuevo: Entregable.txt con Actividades 1.3 y 1.4  Modificado: UsoReloj y Reloj"
+git push
+git --help
+git log
+git push origin
+git log
+cd Reloj/src/
+jar cvf UsoReloj.jar icc/practica1/*.class
+java -cp UsoReloj.jar icc.practica1.UsoReloj
+javadoc icc.practica1
+tree
+git branch test
+git checkout test
+git status
+ls
+git add ./
+git status
+git commit -m "Nuevo: Documentación"
+git log
+git push origin
+git push --set-upstream origin test
+ls
+tree
+git show-branch
+git branch -a
+git checkout master
+tree
+git checkout test
+tree
+git checkout master
+tree
+ls
+cd Reloj
+ls
+ant compile
+ant compile
+ls
+ant help
+dnf search ant
+ant
+ant
+ant
+ant
+ant
+ant compile
+ant compile
+ls
+ant compile
+alternatives -config ant
+alternatives --config ant
+alternatives --config ant
+ant run
+ant --help
+ant -help
+ant -help
+ant
+atn
+ant
+ant compiler
+ant compile
+tree
+cd Entrada/
+tree
+ant
+cd ../../../../Semestre1/Estructuras_Discretas/EjerSema3/
+git status
+tree
+cd..
+cd ..
+tree
+ls
+cd Practicas/
+ls
+tree
+cd..
+cd ..
+pwd
+ls

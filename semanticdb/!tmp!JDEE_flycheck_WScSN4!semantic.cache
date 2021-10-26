@@ -1,0 +1,82 @@
+;; Object semanticdb-project-database-file-d4c05c
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-d4c05c"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-d4c094"
+      :major-mode java-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("java.io.BufferedReader" include nil nil [32 62])
+            ("java.io.BufferedWriter" include nil nil [63 93])
+            ("java.io.IOException" include nil nil [94 121])
+            ("BaseDeDatos" type
+               (:typemodifiers ("public" "abstract")
+                :members 
+                  ( ("registros" variable
+                       (:typemodifiers ("private")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [605 629])
+                    ("BaseDeDatos" function
+                       (:constructor-flag t
+                        :typemodifiers ("public"))
+                        (reparse-symbol class_member_declaration) [678 738])
+                    ("getNumRegistros" function
+                       (:typemodifiers ("public")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [880 948])
+                    ("getRegistros" function
+                       (:typemodifiers ("public")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [1175 1242])
+                    ("agregaRegistro" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("registro" variable (:type "Registro") (reparse-symbol formal_parameters) [1421 1438]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1394 1479])
+                    ("eliminaRegistro" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("registro" variable (:type "Registro") (reparse-symbol formal_parameters) [1663 1680]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1635 1721])
+                    ("limpia" function
+                       (:typemodifiers ("public")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1775 1835])
+                    ("guarda" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public")
+                        :arguments 
+                          ( ("out" variable (:type "BufferedWriter") (reparse-symbol formal_parameters) [2082 2100]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2063 2160])
+                    ("carga" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public")
+                        :arguments 
+                          ( ("in" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [2506 2523]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2488 2583])
+                    ("buscaRegistros" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("campo" variable (:type "Enum") (reparse-symbol formal_parameters) [3001 3011])
+                            ("valor" variable (:type "Object") (reparse-symbol formal_parameters) [3013 3025]))                          
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [2973 3066])
+                    ("creaRegistro" function
+                       (:typemodifiers ("public" "abstract")
+                        :type "Registro")
+                        (reparse-symbol class_member_declaration) [3161 3201]))                  
+                :type "class")
+                nil [514 3204]))          
+      :file "BaseDeDatos.java"
+      :pointmax 3205
+      :fsize 3204
+      :lastmodtime '(24502 44230 225347 799000)
+      :unmatched-syntax nil))
+  :file "!tmp!JDEE_flycheck_WScSN4!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

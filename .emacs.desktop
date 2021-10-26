@@ -1,0 +1,103 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Oct 26 15:25:58 2021
+;; Desktop file format version 208
+;; Emacs version 27.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24952 25686 260657 985000) (desktop . "208") "camilo@localhost.localdomain" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-ADBO-Source Code Pro-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter . "Source Code Pro 10") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#e1e1e0") (background-color . "#3a3a3a") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tab-bar-lines . 0) (height . 55) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . fullheight) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#415160") (sticky) (environment) (last-focus-update) (modeline . t) (unsplittable) (frameset--id . "67EF-6CA2-271A-53BA") (frameset--mini t . t) (display . ":0") (icon-name) (explicit-name) (width . 116) (left . 950) (top . 24)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 136) (min-pixel-width . 80) (min-pixel-height-ignore . 68) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 34) (min-pixel-width-safe . 16)) vc (pixel-width . 960) (pixel-height . 926) (total-width . 120) (total-height . 54) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 594) (total-width . 120) (total-height . 35) (normal-height . 0.6398488120950323) (normal-width . 1.0) (buffer "PruebasPrimitivos.java" (selected) (hscroll . 19) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 325) (start . 26)) (prev-buffers ("Entregables.txt" 4720 5302) ("PruebasPrimitivos.java" 26 325) ("Prueba.java" 1059 1508))) (leaf (last . t) (pixel-width . 960) (pixel-height . 332) (total-width . 120) (total-height . 19) (normal-height . 0.3601511879049676) (normal-width . 1.0) (buffer ".gitignore" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)) (prev-buffers ("*shell*" 834626 835019) ("Entregables.txt" 4394 4950) ("Prueba.java" 1059 1508) ("PruebasPrimitivos.java" 764 1447)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("pivo" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("Agrega" 0 6 (isearch-case-fold-search nil isearch-regexp-function nil)) #("agregaLi" 0 8 (isearch-case-fold-search nil isearch-regexp-function nil)) #("agregaLista" 0 11 (isearch-regexp-function nil isearch-case-fold-search nil)) #("agrega" 0 6 (isearch-case-fold-search t isearch-regexp-function nil)) #("agre" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("reve" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("agregaFinal" 0 11 (isearch-case-fold-search nil isearch-regexp-function nil)) #("obtener" 0 7 (isearch-case-fold-search t isearch-regexp-function nil)) #("obte" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("iterador" 0 8 (isearch-case-fold-search t isearch-regexp-function nil)) #("compare" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("compa" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("p" 0 1 (isearch-regexp-function nil isearch-case-fold-search t)) #("comparTo" 0 8 (isearch-regexp-function nil isearch-case-fold-search nil)) #("comparator" 0 10 (isearch-regexp-function nil isearch-case-fold-search t))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/.gitignore" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/PruebasPrimitivos.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/#PruebasPrimitivos.java#" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/PruebasPrimitivos.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/ImpresoraBinario.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/ImpresoraBinario.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Práctica 1 - Compiladores e intérpretes.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Práctica 1 - Compiladores e intérpretes.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/ClaseReloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/ImpresoraBinario.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/build.xml" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/.gitignore" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/ClaseReloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/VistaRelojAnalogico.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/Reloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/ImpresoraBinario.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entrada/src/icc/entrada/Entrada.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Entregrables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/.gitignore" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/.gitignre" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_4/Ayudantía_4.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_4/listas.hs" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_4" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/build.xml" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entrada/build.xml" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/README.md" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entrada/src/icc/entrada/Entrada.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entrada/build/.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/.gitignore" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/build.xml" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/UsoReloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Entregables.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/VistaReloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/VistaReloj" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/UsoReloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/Reloj.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/" "~/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/UsoReloj.java" "~/.ssh/config" "~/.ssh/" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Ejercicios_Semanales/Semanal2/Semanal2.tex" "~/Documents/Ciencias_de_la_Computación/Semestre1/Estructuras_Discretas/EjerSema2/Ejercicio_semanal_2.tex" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Ejercicios_Semanales/Semanal2/Semanal2.tex" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_1/Ayudantía1.hs" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_1/Ayudantía1.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_1" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell/Ayudantía_1.hs" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas/Haskell" "~/Documents/Ciencias_de_la_Computación/Semestre3/Estructuras Discretas" "~/Documents/Ciencias_de_la_Computación/Semestre3/" "~/Documents/Ciencias_de_la_Computación/Semestre1/Estructuras_Discretas/Haskell_ayudantía/20-11-2020.hs" "~/Documents/Ciencias_de_la_Computación/Semestre1/Estructuras_Discretas/Haskell_ayudantía/" "~/Documents/Ciencias_de_la_Computación/Emacs_Commands.txt" "~/Documents/Ciencias_de_la_Computación/Semestre3/suma/Suma.java" "~/Documents/Ciencias_de_la_Computación/Semestre3/suma/" "~/Documents/Ciencias_de_la_Computación/Semestre3/" "~/Documents/Ciencias_de_la_Computación/Semestre3/Hola.java" "~/Documents/Ciencias_de_la_Computación/Semestre3" "~/Documents/Ciencias_de_la_Computación/" "~/Documents/Ciencias_de_la_Computación/Emacs_Commands.txt" "~/Documents/" "~/" "~/Downloads/Tarea6 ASI LaTeX.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea6/Tarea6.tex" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/Tarea5.tex" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/Tarea5.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/.pdf" "~/Downloads/Tarea5 ASI.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/Tarea5.pdf" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/../Tarea1 Álgebra/main.tex" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5/Tarea5.tex" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/Tarea5" "~/Documents/Ciencias_de_la_Computación/Semestre1/Algebra/Tareas/" "~/Documents/whyamIhere.txt" "~/Documents/whyamIhere" "~/Documents/whatIwant.txt" "~/Documents/Ciencias_de_la_Computación/Semestre1/ICC/Prácticas/miPráctica5foward/ICC-practicas/src/test/java/mx/unam/ciencias/icc/test/TestArreglos.java"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/camilo/.emacs.d/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24952 25633 516566 648000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Práctica 2 - Tipos primitivos y bits.pdf"
+  "Práctica 2 - Tipos primitivos y bits.pdf"
+  'doc-view-mode
+  nil
+  1
+  '(1 nil)
+  t
+  '((page . 8) (slice))
+  '((buffer-display-time 24952 21295 580313 457000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/PruebasPrimitivos.java"
+  "PruebasPrimitivos.java"
+  'java-mode
+  '(abbrev-mode)
+  325
+  '(297 nil)
+  nil
+  nil
+  '((buffer-display-time 24952 25628 703799 55000) (buffer-file-coding-system . utf-8-emacs-unix) (overwrite-mode))
+  '((mark-ring (2147 2220 2184 2183 2185 2025 1824 2084 1954 1995 1955 1765 1645 1585 1711 325))))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/Entregables.txt"
+  "Entregables.txt"
+  'text-mode
+  nil
+  5302
+  '(5302 nil)
+  nil
+  nil
+  '((buffer-display-time 24952 21295 580314 399000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4961 4822 4653 4633 4634 4229 4220 5571 4234 4198 4196 4191 4191 4074 3917 5302))))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/Prueba.java"
+  "Prueba.java"
+  'java-mode
+  '(abbrev-mode)
+  1508
+  '(1463 nil)
+  nil
+  nil
+  '((buffer-display-time 24952 19453 533260 71000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2033 1 1059 1059 1150 1102 1102 2046 2033 2033))))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica2/tipos-primitivos-Camilo-Nieto1/src/icc/primitivos/ImpresoraBinario.java"
+  "ImpresoraBinario.java"
+  'java-mode
+  '(abbrev-mode)
+  1246
+  '(1046 nil)
+  nil
+  nil
+  '((buffer-display-time 24951 17944 389657 806000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (840 921 723 830 723 303))))
+
+(desktop-create-buffer 208
+  "/home/camilo/Documents/Ciencias_de_la_Computación/Semestre3/ICC/Práctica1/compiladores-e-interpretes-Camilo-Nieto1/Reloj/src/icc/practica1/ClaseReloj.java"
+  "ClaseReloj.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24952 6567 1683 331000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+

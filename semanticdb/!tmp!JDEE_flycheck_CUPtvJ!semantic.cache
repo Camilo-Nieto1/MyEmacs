@@ -1,0 +1,20 @@
+;; Object semanticdb-project-database-file-c1e724
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-c1e724"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-c1e730"
+      :major-mode jdee-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("java.util.Comparator" include nil nil [32 60])
+            ("java.util.Iterator" include nil nil [61 87])
+            ("java.util.NoSuchElementException" include nil nil [88 128]))          
+      :file "Lista.java"
+      :pointmax 18754
+      :fsize 18753
+      :lastmodtime '(24555 34221 836091 161000)
+      :unmatched-syntax '((BRACE_BLOCK 714 . 18753) (GT 712 . 713) (IDENTIFIER 711 . 712) (LT 710 . 711) (IDENTIFIER 702 . 710) (IMPLEMENTS 691 . 701) (GT 689 . 690) (IDENTIFIER 688 . 689) (PUBLIC 669 . 675) (LT 687 . 688))))
+  :file "!tmp!JDEE_flycheck_CUPtvJ!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

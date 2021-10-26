@@ -1,0 +1,20 @@
+;; Object semanticdb-project-database-file-1f08e18
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1f08e18"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-20098b4"
+      :major-mode jdee-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("java.util.Comparator" include nil nil [32 60])
+            ("java.util.Iterator" include nil nil [61 87])
+            ("java.util.NoSuchElementException" include nil nil [88 128]))          
+      :file "Lista.java"
+      :pointmax 18632
+      :fsize 18753
+      :lastmodtime '(24553 16611 12450 814000)
+      :unmatched-syntax '((BRACE_BLOCK 711 . 18631) (GT 709 . 710) (IDENTIFIER 708 . 709) (LT 707 . 708) (IDENTIFIER 699 . 707) (IMPLEMENTS 688 . 698) (GT 686 . 687) (IDENTIFIER 685 . 686) (PUBLIC 666 . 672) (LT 684 . 685))))
+  :file "!home!camilo!Documents!Ciencias_de_la_Computación!Semestre1!ICC!Prácticas!miPráctica5foward!ICC-practicas!src!main!java!mx!unam!ciencias!icc!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

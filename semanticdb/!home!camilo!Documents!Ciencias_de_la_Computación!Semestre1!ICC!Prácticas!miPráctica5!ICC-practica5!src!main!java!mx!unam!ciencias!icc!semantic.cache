@@ -1,0 +1,320 @@
+;; Object semanticdb-project-database-file-ba87ac
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-ba87ac"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-ba878c"
+      :major-mode jdee-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("Lista" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("Nodo" type
+                       (:typemodifiers ("public")
+                        :members 
+                          ( ("elemento" variable
+                               (:typemodifiers ("private")
+                                :type "Object")
+                                (reparse-symbol class_member_declaration) [550 574])
+                            ("anterior" variable
+                               (:typemodifiers ("private")
+                                :type "Nodo")
+                                (reparse-symbol class_member_declaration) [615 637])
+                            ("siguiente" variable
+                               (:typemodifiers ("private")
+                                :type "Nodo")
+                                (reparse-symbol class_member_declaration) [679 702])
+                            ("Nodo" function
+                               (:constructor-flag t
+                                :typemodifiers ("private")
+                                :arguments 
+                                  ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [774 789]))                                  )
+                                (reparse-symbol class_member_declaration) [761 868])
+                            ("getAnterior" function
+                               (:typemodifiers ("public")
+                                :type "Nodo")
+                                (reparse-symbol class_member_declaration) [994 1092])
+                            ("getSiguiente" function
+                               (:typemodifiers ("public")
+                                :type "Nodo")
+                                (reparse-symbol class_member_declaration) [1220 1320])
+                            ("get" function
+                               (:typemodifiers ("public")
+                                :type "Object")
+                                (reparse-symbol class_member_declaration) [1436 1528]))                          
+                        :type "class")
+                        (reparse-symbol class_member_declaration) [485 1534])
+                    ("cabeza" variable
+                       (:typemodifiers ("private")
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [1579 1599])
+                    ("rabo" variable
+                       (:typemodifiers ("private")
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [1643 1661])
+                    ("longitud" variable
+                       (:typemodifiers ("private")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [1709 1730])
+                    ("getLongitud" function
+                       (:typemodifiers ("public")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [1869 1981])
+                    ("esVacia" function
+                       (:typemodifiers ("public")
+                        :type "boolean")
+                        (reparse-symbol class_member_declaration) [2144 2293])
+                    ("agregaFinal" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [2613 2628]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2589 3151])
+                    ("agregaInicio" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [3473 3488]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [3448 4019])
+                    ("obtenerNodo" function
+                       (:typemodifiers ("private")
+                        :arguments 
+                          ( ("i" variable (:type "int") (reparse-symbol formal_parameters) [4906 4911]))                          
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [4881 5045])
+                    ("inserta" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("i" variable (:type "int") (reparse-symbol formal_parameters) [5070 5075])
+                            ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [5077 5092]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [5050 5666])
+                    ("elementoIgual" function
+                       (:typemodifiers ("private")
+                        :arguments 
+                          ( ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [5985 5991])
+                            ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [5993 6008]))                          
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [5958 6166])
+                    ("buscaNodo" function
+                       (:typemodifiers ("private")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [6200 6215]))                          
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [6177 6363])
+                    ("eliminaNodo" function
+                       (:typemodifiers ("private")
+                        :arguments 
+                          ( ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [6428 6434]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [6403 7030])
+                    ("elimina" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [7060 7075]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [7040 7323])
+                    ("eliminaPrimero" function
+                       (:typemodifiers ("public")
+                        :type "Object")
+                        (reparse-symbol class_member_declaration) [7531 7723])
+                    ("eliminaUltimo" function
+                       (:typemodifiers ("public")
+                        :type "Object")
+                        (reparse-symbol class_member_declaration) [7929 8526])
+                    ("contiene" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [8820 8835]))                          
+                        :type "boolean")
+                        (reparse-symbol class_member_declaration) [8796 8959])
+                    ("reversa" function
+                       (:typemodifiers ("public")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [9109 9298])
+                    ("reversa" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [9324 9330])
+                            ("nuevalista" variable (:type "Lista") (reparse-symbol formal_parameters) [9332 9348]))                          
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [9303 9776])
+                    ("copia" function
+                       (:typemodifiers ("public")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [9978 10162])
+                    ("copia" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [10186 10192])
+                            ("nuevalista" variable (:type "Lista") (reparse-symbol formal_parameters) [10194 10210]))                          
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [10167 10639])
+                    ("limpia" function
+                       (:typemodifiers ("public")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [10714 10832])
+                    ("getPrimero" function
+                       (:typemodifiers ("public")
+                        :type "Object")
+                        (reparse-symbol class_member_declaration) [11005 11147])
+                    ("getUltimo" function
+                       (:typemodifiers ("public")
+                        :type "Object")
+                        (reparse-symbol class_member_declaration) [11320 11457])
+                    ("get" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("i" variable (:type "int") (reparse-symbol formal_parameters) [11802 11807]))                          
+                        :type "Object")
+                        (reparse-symbol class_member_declaration) [11784 11947])
+                    ("indiceDe" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [12238 12253]))                          
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [12218 12401])
+                    ("indiceDe" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("elemento" variable (:type "Object") (reparse-symbol formal_parameters) [12426 12441])
+                            ("i" variable (:type "int") (reparse-symbol formal_parameters) [12443 12448])
+                            ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [12450 12456]))                          
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [12406 12599])
+                    ("toString" function
+                       (:typemodifiers ("public")
+                        :type "String")
+                        (reparse-symbol class_member_declaration) [12745 12990])
+                    ("toString" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("micadena" variable (:type "String") (reparse-symbol formal_parameters) [13019 13034])
+                            ("n" variable (:type "Nodo") (reparse-symbol formal_parameters) [13036 13042]))                          
+                        :type "String")
+                        (reparse-symbol class_member_declaration) [12996 13211])
+                    ("equalsNodo" function
+                       (:typemodifiers ("private")
+                        :arguments 
+                          ( ("n1" variable (:type "Nodo") (reparse-symbol formal_parameters) [13503 13510])
+                            ("n2" variable (:type "Nodo") (reparse-symbol formal_parameters) [13512 13519]))                          
+                        :type "boolean")
+                        (reparse-symbol class_member_declaration) [13476 13688])
+                    ("equals" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("objeto" variable (:type "Object") (reparse-symbol formal_parameters) [13730 13743]))                          
+                        :type "boolean")
+                        (reparse-symbol class_member_declaration) [13708 14227])
+                    ("getCabeza" function
+                       (:typemodifiers ("public")
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [14335 14412])
+                    ("getRabo" function
+                       (:typemodifiers ("public")
+                        :type "Nodo")
+                        (reparse-symbol class_member_declaration) [14516 14589]))                  
+                :type "class")
+                nil [410 14591]))          
+      :file "Lista.java"
+      :pointmax 14592
+      :fsize 14698
+      :lastmodtime '(24489 64349 742189 733000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-9db078"
+      :major-mode jdee-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("BaseDeDatosEstudiantes" type
+               (:typemodifiers ("public")
+                :superclasses "BaseDeDatos"
+                :members 
+                  ( ("creaRegistro" function
+                       (:typemodifiers ("public")
+                        :type "Registro")
+                        (reparse-symbol class_member_declaration) [251 319]))                  
+                :type "class")
+                nil [85 321]))          
+      :file "BaseDeDatosEstudiantes.java"
+      :pointmax 322
+      :fsize 323
+      :lastmodtime '(24493 41810 76755 908000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-e0f33c"
+      :major-mode jdee-mode
+      :tags 
+        '( ("mx.unam.ciencias.icc" package nil nil [1 30])
+            ("java.io.BufferedReader" include nil nil [32 62])
+            ("java.io.BufferedWriter" include nil nil [63 93])
+            ("java.io.IOException" include nil nil [94 121])
+            ("BaseDeDatos" type
+               (:typemodifiers ("public" "abstract")
+                :members 
+                  ( ("registros" variable
+                       (:typemodifiers ("private")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [601 625])
+                    ("BaseDeDatos" function
+                       (:constructor-flag t
+                        :typemodifiers ("public"))
+                        (reparse-symbol class_member_declaration) [673 731])
+                    ("getNumRegistros" function
+                       (:typemodifiers ("public")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [871 937])
+                    ("getRegistros" function
+                       (:typemodifiers ("public")
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [1163 1228])
+                    ("agregaRegistro" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("registro" variable (:type "Registro") (reparse-symbol formal_parameters) [1407 1424]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1380 1463])
+                    ("eliminaRegistro" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("registro" variable (:type "Registro") (reparse-symbol formal_parameters) [1647 1664]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1619 1703])
+                    ("limpia" function
+                       (:typemodifiers ("public")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1757 1815])
+                    ("guarda" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public")
+                        :arguments 
+                          ( ("out" variable (:type "BufferedWriter") (reparse-symbol formal_parameters) [2062 2080]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2043 2138])
+                    ("carga" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public")
+                        :arguments 
+                          ( ("in" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [2482 2499]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2464 2557])
+                    ("buscaRegistros" function
+                       (:typemodifiers ("public")
+                        :arguments 
+                          ( ("campo" variable (:type "Enum") (reparse-symbol formal_parameters) [2972 2982])
+                            ("valor" variable (:type "Object") (reparse-symbol formal_parameters) [2984 2996]))                          
+                        :type "Lista")
+                        (reparse-symbol class_member_declaration) [2944 3035])
+                    ("creaRegistro" function
+                       (:typemodifiers ("public" "abstract")
+                        :type "Registro")
+                        (reparse-symbol class_member_declaration) [3130 3170]))                  
+                :type "class")
+                nil [510 3173]))          
+      :file "BaseDeDatos.java"
+      :pointmax 3174
+      :fsize 3204
+      :lastmodtime '(24493 41810 76755 908000)
+      :unmatched-syntax nil))
+  :file "!home!camilo!Documents!Ciencias_de_la_Computación!Semestre1!ICC!Prácticas!miPráctica5!ICC-practica5!src!main!java!mx!unam!ciencias!icc!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
